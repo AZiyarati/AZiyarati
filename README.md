@@ -56,8 +56,8 @@ Hello! I'm C[A]pitan AL!, a computer enthusiast and 3D Artist with a keen intere
 
 ## 🏆 Overall Rank
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AZiyarati&show_icons=true&theme=radical" alt="C[A]pitan AL!'s GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AZiyarati&show_icons=true&theme=gruvbox" alt="C[A]pitan AL!'s GitHub Stats" />
 </div>
 
 ---
-stats will be changed...
+stats will change...
