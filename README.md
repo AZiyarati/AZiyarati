@@ -31,6 +31,7 @@ I believe in understanding things from their fundamental principles and building
 |  🐍  | **Python**  | Beginner     | `Learning...`     |
 |  ⚡  | **FastAPI** | Learning     | `Initializing...` |
 |  🟠  | **Blender** | Intermediate | `Building...`     |
+|  🤖  | **Godot**   | Intermediate | `Building...`     |
 
 <div align="center">
 
