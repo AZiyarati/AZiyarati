@@ -22,7 +22,7 @@ I believe in understanding things from their fundamental principles and building
 
 ---
 
-## ⚔️ Character Skills
+## ⚔️ Player Skills
 
 > `SKILL TREE // CURRENT LEVELS`
 
